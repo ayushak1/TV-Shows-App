@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application"</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="Name">Name</string>
+    <string name="SignUp">signup</string>
+    <string name="tv_shows_most_popular">TV Shows | Most Popular</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="u2002"> </string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="click_me_to_enter">Click Me To Enter</string>
+    <string name="api_used_https_www_episodate_com_api">API USED :- https://www.episodate.com/api/</string>
+    <string name="watchlist">Watchlist</string>
+</resources>
